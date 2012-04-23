@@ -1,4 +1,3 @@
-
 ## Running Xcode 3 User Scripts from inside Xcode 4
 
 This collection of scripts allows for the running of arbitrary Xcode 3 User Scripts under Xcode 4.
@@ -46,7 +45,8 @@ A wrapper script around populateXcode3UserScriptVariables.sh && PropertyFromInst
 * Browse to, and select "PropertyFromInstanceVariable_Xcode4.sh".
 * Thats It. You are done. Test it out on an ivar that you want a property for.
 
-(./BehavioursTab.png "Complete Behaviours Tab.")
+![Complete Behaviours Tab.](https://github.com/heardrwt/Xcode4UserScripts/raw/master/BehavioursTab.png )
+
 
 ## Using populateXcode3UserScriptVariables.sh to convert other Xcode 3 scripts. 
 
@@ -65,7 +65,7 @@ Enhancements by Yung-Luen Lan and Mike Schrag on 12/08/09.
 Copyright 2009 Yung-Luen Lan and Mike Schrag. All rights reserved.
 
 Enhancements by Pierre Bernard on 20/09/09.
-(mainly: underbar storage name, behavior, dealloc,É)
+(mainly: underbar storage name, behavior, dealloc,ï¿½)
 Copyright 2009 Pierre Bernard. All rights reserved.
 
 Permission is given to use this source code file without charge in any
